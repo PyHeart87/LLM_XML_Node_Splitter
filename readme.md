@@ -4,7 +4,7 @@ This project is a Streamlit application that uses the CodeLlama model to intelli
 
 ## Features
 
-- Split XML nodes into task, profile, offer, and contact categories
+- Split XML nodes into introduction, task, profile, offer, and contact categories
 - Use CodeLlama for intelligent content splitting
 - Store and retrieve previous splits using Chroma DB
 - Explain changes made to the XML structure
