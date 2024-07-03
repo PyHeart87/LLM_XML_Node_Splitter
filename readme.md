@@ -57,7 +57,7 @@ This project is a Streamlit application that uses the CodeLlama model to intelli
 ## How it works
 
 1. The app takes XML content and a node path as input.
-2. It uses CodeLlama to intelligently split the content of the specified node into task, profile, offer, and contact categories.
+2. It uses CodeLlama to intelligently split the content of the specified node into introduction, task, profile, offer, and contact categories.
 3. The split result is displayed and stored in Chroma DB for future reference.
 4. CodeLlama is also used to generate an explanation of the changes made to the XML structure.
 
