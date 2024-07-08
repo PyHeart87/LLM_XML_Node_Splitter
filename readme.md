@@ -1,6 +1,8 @@
 # CodeLlama-based XML Node Splitter with Chroma DB
 
-This project is a Streamlit application that uses the CodeLlama model to intelligently split XML nodes into specific categories. It also integrates Chroma DB for storing and retrieving previous splits.
+This project is a Streamlit application created by a beginner experimenting with various tools. It uses the CodeLlama model to intelligently split XML nodes into specific categories and integrates Chroma DB for storing and retrieving previous splits.
+
+Please note that the methods and tools used in this project are not optimized for efficiency. The primary goal is to experiment and learn.
 
 ## Features
 
