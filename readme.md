@@ -43,7 +43,7 @@ Please note that the methods and tools used in this project are not optimized fo
 
 1. Run the Streamlit app:
    ```
-   streamlit run xml-splitter-app.py
+   xml_splitter_app_codellama_chroma.py
    ```
 
 2. Open your web browser and go to the URL provided by Streamlit (usually `http://localhost:8501`).
